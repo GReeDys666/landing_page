@@ -1,0 +1,33 @@
+#header {
+    display: flex;
+    /* position: fixed; */
+}
+
+.header__div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__div > .description{
+    font-size: 26px;
+    text-align: center;
+}
+
+
+#header-img {
+    width: 100px;
+    padding-left: 10px;
+}
+
+#nav-bar{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.nav-link{
+    padding: 10px;
+}
+
+@media (min-width: 500px) {}

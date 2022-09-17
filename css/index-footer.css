@@ -1,0 +1,8 @@
+.footer__div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer__description{
+    text-align: center;
+}
